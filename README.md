@@ -1,7 +1,7 @@
 <h1 style="margin: 16px 40px" align="">Hi 👋, I'm Anton Malenkij</h1>
 <h3 align="center">I teach myself how to program and have fun making small projects. Sometimes things turn out well, but other times they don't ¯\_(ツ)_/¯. Despite this, I stay positive and open to learning whenever I face a new challenge.</h3>
 
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://static.vecteezy.com/system/resources/thumbnails/005/879/539/small_2x/cloud-computing-modern-flat-concept-for-web-banner-design-man-enters-password-and-login-to-access-cloud-storage-for-uploading-and-processing-files-illustration-with-isolated-people-scene-free-vector.jpg" alt="HTML5" /></a>  
+<img style="margin: 10px" src="https://st3.depositphotos.com/2617209/16064/v/600/depositphotos_160641966-stock-illustration-programmer-cartoon-character.jpg" alt="img" />
 
 - 🔭 I am actively working on a React project that showcases information about Star Wars, utilizing the SWAPI API. Check out my project react-star-wars on GitHub.
     <br>
