@@ -1,4 +1,5 @@
-<h1 style="margin: 16px 40px" align="">Hi 👋, I'm Anton Malenkij</h1>
+<h1 style="margin: 16px 40px" align="">Hi 👋, I'm 
+    <br>Anton Malenkij</h1>
 <h3 align="center">I teach myself how to program and have fun making small projects. Sometimes things turn out well, but other times they don't ¯\_(ツ)_/¯. Despite this, I stay positive and open to learning whenever I face a new challenge.</h3>
 
 <img style="margin: 10px" src="https://st3.depositphotos.com/2617209/16064/v/600/depositphotos_160641966-stock-illustration-programmer-cartoon-character.jpg" alt="img" />
