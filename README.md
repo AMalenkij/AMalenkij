@@ -1,5 +1,5 @@
 <h1 style="margin: 16px 40px" align="">Hi 👋, I'm Anton Malenkij</h1>
-<h3 align="center">I am a self-taught programmer who enjoys creating small, thoughtfully researched projects. While I sometimes achieve success, there are also times when things don't go as planned ¯\_(ツ)_/¯ . Nevertheless, I approach each new challenge with a positive attitude and a willingness to learn.</h3>
+<h3 align="center">I teach myself how to program and have fun making small projects. Sometimes things turn out well, but other times they don't ¯\_(ツ)_/¯. Despite this, I stay positive and open to learning whenever I face a new challenge.</h3>
 
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://static.vecteezy.com/system/resources/thumbnails/005/879/539/small_2x/cloud-computing-modern-flat-concept-for-web-banner-design-man-enters-password-and-login-to-access-cloud-storage-for-uploading-and-processing-files-illustration-with-isolated-people-scene-free-vector.jpg" alt="HTML5" /></a>  
 
