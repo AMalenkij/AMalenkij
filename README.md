@@ -60,4 +60,4 @@
 </td></tr></table>  
 <h3>Call to Action:</h3>
 <p>Feel free to check out my projects, follow me on GitHub, or connect with me on <a href="https://linkedin.com/in/amalenkyi">LinkedIn!</a></p>
-
+<p>You can also view my detailed CV <a href="https://dot-maple-dc6.notion.site/CV-Full-Stack-Developer-9c1b5442303a45eb8f0cf56841fb15ce?pvs=4">here</a>.</p>
