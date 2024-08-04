@@ -8,7 +8,7 @@
 <br>
 - 🚀 Check out my project <a href="https://github.com/AMalenkij/vyrij">Vyrij git</a> on GitHub.
 <br>
-- 💻 The project is also live and can be accessed at <a href="https://vyrij.vercel.app/">Vyrij web page</a>.
+- 💻 The project is also live and can be accessed at <a href="https://vyrij.net/">Vyrij web page</a>.
 <br>
 - 🌱 I'm continuously expanding my skill set, currently diving deeper into NextJS, Framer Motion, and TypeScript.
 <br>
